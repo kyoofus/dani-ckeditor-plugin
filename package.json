@@ -1,0 +1,22 @@
+{
+  "name": "starter-files",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "description": "Final code for the abbreviation plugin tutorial part 3.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0",
+    "@ckeditor/ckeditor5-inspector": "^4.1.0"
+  },
+  "dependencies": {
+    "ckeditor5": "^42.0.0"
+  },
+  "author": "CKSource (https://cksource.com/)",
+  "license": "SEE LICENSE IN ../LICENSE.md",
+  "homepage": "https://ckeditor.com"
+}
